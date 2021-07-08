@@ -26,9 +26,7 @@ git clone https://github.com/Andres-MED-Endava/FalconPipeline.git
 
 See also the list of [contributors](https://github.com/Andres-MED-Endava/FalconPipeline/blob/main/contributors) who participated in this project.
 
-			
-
-			### Endava Security Team
-			### Colombia
-			### 2021
-
+      Endava Security Team
+      Colombia
+      2021
+      
