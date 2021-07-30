@@ -3,7 +3,7 @@
 The falcon Pipeline is a little idea to implement a secure pipeline integrating
 diferent Open Source security tools on the diferent part of the CI/CD chain.
 
-The ide a is to show to the endava community a secure Pipeline can be implement 
+The ide a is to show to the endava community a secure Pipeline can be implement
 in your systems and make more secure your develoments.
 
 ## Getting Started
@@ -29,4 +29,3 @@ See also the list of [contributors](https://github.com/Andres-MED-Endava/FalconP
       Endava Security Team
       Colombia
       2021
-      
