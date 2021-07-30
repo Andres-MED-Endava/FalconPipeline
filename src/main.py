@@ -1,12 +1,8 @@
 #!/bin/python
 
-print ("Hello 
-       World"
+print("Hello World")
 
-       )
-
-
-a =1
+a = 1
 b = 2
-     c = a +b
+c = a + b
 print(C)
