@@ -2,7 +2,7 @@
 
 import subprocess
 
-""" Python code for Proof Of Concept"""
+''' Python code for Proof Of Concept'''
 
 print("Hello World")
 
