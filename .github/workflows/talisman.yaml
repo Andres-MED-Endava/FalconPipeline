@@ -1,9 +1,0 @@
-# Download the talisman installer script
-curl https://thoughtworks.github.io/talisman/install.sh > ~/install-talisman.sh
-chmod +x ~/install-talisman.sh
-# Install to a single project
-cd <project-folder>
-# as a pre-push hook
-~/install-talisman.sh
-# or as a pre-commit hook
-~/install-talisman.sh pre-commit
