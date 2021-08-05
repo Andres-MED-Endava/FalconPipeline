@@ -1,8 +1,10 @@
 #!/bin/python
+''' Python code for Proof Of Concept'''
 
 print("Hello World")
 
-a = 1
-b = 2
-c = a + b
-print(C)
+NUM1 = 1
+NUM2 = 2
+SUM = NUM1 + NUM2
+print(SUM)
+
