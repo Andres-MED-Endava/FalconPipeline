@@ -6,6 +6,8 @@ import subprocess
 
 print("Hello World")
 
+""" Other Comment """
+
 NUM1 = 1
 NUM2 = 2
 SUM = NUM1 + NUM2
